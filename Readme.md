@@ -30,3 +30,9 @@ Aktueller Wind:        17.3 km/h <br>
   2026-08-08T12:00+00:00: 28.1 °C<br>
 
 **Zusammenfassung:** In Wien herrschen aktuell warme 33,5°C bei leichter Brise (17,3 km/h) und völlig trockener Luft. Der Tag wird mit Höchstwerten um die 35,4°C am frühen Nachmittag sehr warm, kühlt dann aber allmählich auf etwa 20–21°C in der Nacht ab. In der Vorschau sind keine Niederschläge zu erwarten.
+
+
+--------------------------
+**Requierements**
+
+A running Ollama instance and qwen3.6:latest model installed
