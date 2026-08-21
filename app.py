@@ -23,9 +23,11 @@ class WeatherResult(BaseModel):
     current_temperature: float | None = Field(
         default=None, description="Aktuell gemessene Temperatur in °C"
     )
+    
     current_rain: float | None = Field(
         default=None, description="Aktueller Niederschlag der letzten 10 Min in mm"
     )
+
     current_wind_speed: float | None = Field(
         default=None, description="Aktuelle Windgeschwindigkeit in km/h"
     )
